@@ -4,6 +4,7 @@
      */
     "name": "MyApp",
 
+    "theme": "ext-theme-gray",
     /**
      * The relative path to the appliaction's markup file (html, jsp, asp, etc.)
      */
